@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="second_fragment">second Fragment</string>
+    <string name="third_fragment">third fragment</string>
+    <string name="that_s_first_fragemnt">That\'s first Fragemnt</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="that_s_second_fragemnt">that\'s second fragemnt</string>
+</resources>
