@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">Lab 6</string>
     <string name="second_fragment">second Fragment</string>
     <string name="third_fragment">third fragment</string>
     <string name="that_s_first_fragemnt">That\'s first Fragemnt</string>
@@ -7,4 +7,8 @@
     <string name="second">second</string>
     <string name="third">third</string>
     <string name="that_s_second_fragemnt">that\'s second fragemnt</string>
+    <string name="please_enter_year_of_brith">Please Enter year of brith</string>
+    <string name="please_enter_year_of_brith_">Please Enter year of brith</string>
+    <string name="sumbit">Sumbit</string>
+    <string name="your_age_is">Your Age is:</string>
 </resources>
